@@ -8,4 +8,4 @@ desserts = 39.39
 drinks = 64.21
 
 running_total += appetizers + main_courses + desserts + drinks
-print('Total bill so far: ' + str(running_total))
+print("Total bill so far:", running_total)
